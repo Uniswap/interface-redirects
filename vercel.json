@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://app.uniswap.org/#/$1",
+      "permanent": true
+    }
+  ]
+}
