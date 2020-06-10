@@ -3,8 +3,8 @@
   "redirects": [
     {
       "source": "/(.*)",
-      "destination": "https://app.uniswap.org/#/migrate/v1",
-      "permanent": true
+      "destination": "https://bafybeiehogk3rdmet7pd3ddtmz2pnsrivmdjvlnf5qczujl5plmkouispm.ipfs.dweb.link/",
+      "permanent": false
     }
   ]
 }
