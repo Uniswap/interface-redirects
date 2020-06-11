@@ -2,8 +2,13 @@
   "version": 2,
   "redirects": [
     {
+      "source": "/(.*)?(.*)",
+      "destination": "https://app.uniswap.org/#/$1?$2&use=v1",
+      "permanent": false
+    },
+    {
       "source": "/(.*)",
-      "destination": "https://bafybeiehogk3rdmet7pd3ddtmz2pnsrivmdjvlnf5qczujl5plmkouispm.ipfs.dweb.link/#/$1",
+      "destination": "https://app.uniswap.org/#/$1?use=v1",
       "permanent": false
     }
   ]
