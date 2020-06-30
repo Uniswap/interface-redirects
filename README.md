@@ -8,4 +8,3 @@ e.g.:
 - `uniswap.exchange/swap` => `app.uniswap.org/#/swap`
 - `uniswap.exchange/add/0x...-0x...` => `app.uniswap.org/#/add/0x...-0x...`
 - `migrate.uniswap.exchange/...` => `app.uniswap.org/#/migrate/v1`
-
