@@ -3,12 +3,12 @@
   "redirects": [
     {
       "source": "/(.*)?(.*)",
-      "destination": "https://app.uniswap.org/#/$1?$2&use=v1",
+      "destination": "https://app.uniswap.org/#/$1?$2&ape",
       "permanent": false
     },
     {
       "source": "/(.*)",
-      "destination": "https://app.uniswap.org/#/$1?use=v1",
+      "destination": "https://app.uniswap.org/#/$1?ape",
       "permanent": false
     }
   ]
